@@ -1,6 +1,6 @@
 # 2025-WCPG-Education-Day
 
-**Plenary I**
+## **Plenary I**
 
 ```
 Dr. Jonathan Hess
