@@ -15,5 +15,5 @@ _Note: this Vignette showcases a re-construction of BrainGENIE (https://www.natu
 
 [Data via Dropbox](https://www.dropbox.com/scl/fo/8fp79xzq91of5g9luki3a/AO7LgjFUcr1XCLOv6fQ_234?rlkey=b9hm9oql82645hycwwd64hwhy&st=fqezmp49&dl=0)
 
-[Vignette](https://htmlpreview.github.io/?https://github.com/mlpsych/2025-WCPG-Education-Day/blob/main/braingenie_tutorial_keras_copy.html)
+[HTML Report](https://htmlpreview.github.io/?https://github.com/mlpsych/2025-WCPG-Education-Day/blob/main/braingenie_tutorial_keras_copy.html)
 
