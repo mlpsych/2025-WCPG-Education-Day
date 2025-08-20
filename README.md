@@ -4,7 +4,6 @@
 
 ```
 Dr. Jonathan Hess
-
 Assistant Profeessor
 Dept. of Psychiatry & Behavioral Sciences
 Norton College of Medicine at SUNY Upstate Medical University, Syracuse, NY, USA
